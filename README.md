@@ -4,7 +4,7 @@
 5 max REST endpoints
 30 max items per endpoint
 
-Go to https://my-json-server.typicode.com/WallaceRepo/todoNote-JSON-Serverto access server.
+Go to https://my-json-server.typicode.com/WallaceRepo/todoNote-JSON-Server to access server.
 
 
 ### Deploying Create-React-App with Json-Server as backend to Github 
