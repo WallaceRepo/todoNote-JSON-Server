@@ -1,5 +1,5 @@
 # todoNote-JSON-Server 
-This simple JSON server from typicode.com on Github, with db.json file. REST api methods all works on json server on localhost with db.json file as part of project. The GitHub json server only provides GET request. Teh other requests wont work, or won't change data in db.json file on Github. 
+Simple JSON server from typicode.com on Github with db.json file. GET, POST, PUT and DELETE REST api methods work on json server ONLY on the localhost when db.json file is a part of project. Here when I host db.json hosting on GitHub,the server only provides GET request. Those other requests won't work, or won't change data in db.json file on Github. It doesn't cause CORS error when requesting GET from localhost app to Github repo's db.json file. 
 
 10KB db.json max
 5 max REST endpoints
